@@ -1,6 +1,6 @@
 # AdventOfCode2019
 Solutions for [Advent of Code 2019](https://adventofcode.com/2019/) challenges
-### Completed 11/25
+### Completed 12/25
 
 - Day 1 - The Tyranny of the Rocket Equation
 - Day 2 - 1202 Program Alarm
@@ -13,3 +13,4 @@ Solutions for [Advent of Code 2019](https://adventofcode.com/2019/) challenges
 - Day 9 - Sensor Boost
 - Day 10 - Monitoring Station
 - Day 11 - Space Police
+- Day 12 - The N-Body Problem
