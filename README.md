@@ -15,3 +15,4 @@ Solutions for [Advent of Code 2019](https://adventofcode.com/2019/) challenges
 - Day 11 - Space Police
 - Day 12 - The N-Body Problem
 - Day 13 - Care Package
+- Day 14 - Space Stoichiometry
