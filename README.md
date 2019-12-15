@@ -1,6 +1,6 @@
 # AdventOfCode2019
 Solutions for [Advent of Code 2019](https://adventofcode.com/2019/) challenges
-### Completed 12/25
+### Completed 15/25
 
 - Day 1 - The Tyranny of the Rocket Equation
 - Day 2 - 1202 Program Alarm
