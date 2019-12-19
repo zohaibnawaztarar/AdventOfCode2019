@@ -19,3 +19,4 @@ Solutions for [Advent of Code 2019](https://adventofcode.com/2019/) challenges
 - Day 15 - Oxygen System
 - Day 16 - Flawed Frequency Transmission
 - Day 17 - Set and Forget
+- Day 18 - Many-Worlds Interpretation
