@@ -45,7 +45,7 @@ class IntCodeParser
                 } elseif ($mode[$i] === 1) {
                     $arg[$i] = $value;
                 } else {
-                    $arg[$i] = (int) $prg[$this->relPos + $value];
+                    $arg[$i] = (int) ($prg[$this->relPos + $value] ?? 0);
                 }
             }
             switch ($opcode) {
